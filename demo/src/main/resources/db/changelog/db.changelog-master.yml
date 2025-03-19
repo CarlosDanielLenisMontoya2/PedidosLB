@@ -31,3 +31,5 @@ databaseChangeLog:
 
   - include:
       file: db/changelog/v1_create_table_reseña.sql
+  - include:
+      file: db/changelog/rename_detalle_pedido.sql
